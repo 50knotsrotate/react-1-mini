@@ -1,0 +1,28 @@
+.App {
+  text-align: center;
+ 
+}
+
+.name{
+  display: inline;
+}
+
+
+.image{
+  height: 100px;
+  width: 100px;
+  border: 10px solid red;
+  text-align: center;
+  display: flex;
+
+  
+}
+
+.friend {
+  width: 250px;
+  height: 150px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+}
